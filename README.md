@@ -46,4 +46,4 @@ It includes:
 ![image alt](https://github.com/Shishir-Kumar-Raj/footwear-sales-dashboard-and-forecast/blob/dc5aefb870ad0fbf3b58e7986778f6f9d55a0e2d/Dashboard.png)
 
 ## 15-Day Sales Forecasting Dashboard
-![image alt]
+![image alt](https://github.com/Shishir-Kumar-Raj/footwear-sales-dashboard-and-forecast/blob/16d68f77ee28d8e7cc3510aea4c4ca7265d44a3e/Forecast.png)
