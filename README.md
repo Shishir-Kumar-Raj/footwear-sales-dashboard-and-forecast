@@ -40,4 +40,7 @@ It includes:
 ### ✔ Interactive Features  
 - Slicers (City, Brand, Category, Size)  
 - Drill-through  
-- Dynamic visuals  
+- Dynamic visuals
+
+#Footwear Sales Dashboard
+
