@@ -41,8 +41,3 @@ It includes:
 - Slicers (City, Brand, Category, Size)  
 - Drill-through  
 - Dynamic visuals  
-
----
-
-## 📂 Repository Structure
-
