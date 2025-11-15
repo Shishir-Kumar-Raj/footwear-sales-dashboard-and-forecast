@@ -42,5 +42,5 @@ It includes:
 - Drill-through  
 - Dynamic visuals
 
-#Footwear Sales Dashboard
-
+## Footwear Sales Dashboard
+![image alt](https://github.com/Shishir-Kumar-Raj/footwear-sales-dashboard-and-forecast/blob/dc5aefb870ad0fbf3b58e7986778f6f9d55a0e2d/Dashboard.png)
